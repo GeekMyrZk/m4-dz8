@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("https://media.istockphoto.com/id/1190120789/vector/waiter-holding-an-empty-tray-background-for-presentation-and-advertising.jpg?s=612x612&w=0&k=20&c=9yUkMXISuLIKOhh8zbap2OrpOBcAKFiRtzxHj8czUro="); /* Поместите путь к изображению внутри кавычек */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 code {
